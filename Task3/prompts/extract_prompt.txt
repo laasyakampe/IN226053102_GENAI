@@ -1,0 +1,14 @@
+
+Extract information from the resume below.
+
+Return ONLY valid JSON.
+
+Format:
+{
+  "skills": [list of skills],
+  "experience": number,
+  "tools": [list of tools]
+}
+
+Resume:
+{resume}
